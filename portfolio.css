@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+#head{
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:lightblue;
+    color: white;
+    font-size: x-large;
+}
+#logo{
+    border: 1px  black;
+    width: 500px;
+    height: 50px;
+    font-size: xx-large;
+    color: black;
+    justify-content:center;
+    align-items:center;
+     }
+     
+ #name{
+border: 1px none black;
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-decoration: underline;
+    }
+.c:hover{
+background-color: black;
+}
+
+
+/* section 1 */
+#sone{
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    background-color:rgb(7, 7, 107);
+    }
+    #text{
+        border: 1px solid black;
+        width: 50%;
+        height: 500px;
+        font-size: larger;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items:flex-start;
+        justify-content: center;
+        font-size: xx-large;
+}
+#image{
+        border: 1px solid black;
+        width: 50%;
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+#coding{
+    border: 1px none black;
+    width: 500px;
+    height: 400px;
+}
+
+#d{
+    color:cyan;
+    font-size:50px;
+}
+#element{
+    font-size:large;
+}
+#india{
+    font-size: large;
+}
+#h{
+    font-size: large;
+}
+#bold{
+    font-size:50px ;
+}
+#f{
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:lightskyblue;
+    }
+    #a{
+        font-size: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content:flex-start;
+        align-items:flex-start;
+    }
+    #b{
+        font-size: 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+    }
